@@ -1,1 +1,1 @@
-alert("Loading external script successful on " + document.domain);
+alert("Loading external script successful.");
